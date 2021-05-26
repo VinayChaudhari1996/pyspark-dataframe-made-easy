@@ -1,16 +1,11 @@
 # Pyspark Dataframe and RDD made easy 😀
 
-_____
-
 
 #### SPARK DATAFRAME API WITH PYTHON (Zero to Hero)
-
-#### - Vinay Chaudhari 
-
-
 ###### Learn Dataframe API in FUN WAY ! 
 ##### HAPPY LEARNING  ☺
-=========================================================
+- Vinay Chaudhari
+
 ### ○ agg                           
 ### ○ alias                        
 ### ○ agg
