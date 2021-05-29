@@ -4,6 +4,20 @@ SPARK DATAFRAME API WITH PYTHON
 > (Zero to Hero)
 HAPPY LEARNING  ☺
 - Vinay Chaudhari 
+
+___
+
+> Before you start,
+1) Open Google colab or Any IDE and hit following cmd
+2) pip install pyspark
+
+
+
+
+
+
+
+
 ____
 ### ○ agg                           
 ### ○ alias                        
