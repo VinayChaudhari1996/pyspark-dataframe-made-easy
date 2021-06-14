@@ -1,6 +1,4 @@
-# Pyspark Dataframe and RDD made easy 😀
-
-SPARK DATAFRAME API WITH PYTHON 
+# Pyspark Dataframe made easy 😀
 > (Zero to Hero)
 HAPPY LEARNING  ☺
 - Vinay Chaudhari 
@@ -8,7 +6,7 @@ HAPPY LEARNING  ☺
 ___
 
 > Before you start,
-1) Open Google colab or Any IDE and hit following cmd
+1) Open Google colab or Any IDE and hit following cmd.
 2) pip install pyspark
 
 
