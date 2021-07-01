@@ -1,6 +1,6 @@
 # Pyspark Dataframe made easy 😀
 > (Zero to Hero)
-HAPPY LEARNING  ☺
+
 - Vinay Chaudhari 
 
 ___
